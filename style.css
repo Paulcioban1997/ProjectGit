@@ -146,10 +146,10 @@
     content: '';
     position: absolute;
     right: 0;
-    top: 2px;
+    top: 3px;
     width: 7px;
     height: 6px;
-    background: #d32f2f;
+    background: #c42424;
     border-radius: 3px;
     opacity: 0.7;
 }
